@@ -1,0 +1,25 @@
+{
+  "id": "21bfd5a9-62c4-4056-9e7f-44b09866678c",
+  "version": "2.0",
+  "name": "Pengujian Perangkat Lunak",
+  "url": "https://fittechinova.com/login",
+  "tests": [{
+    "id": "53a50671-7c21-4dea-a007-197b202ca8d0",
+    "name": "Untitled",
+    "commands": []
+  }, {
+    "id": "667273ae-8fd0-4997-aacf-39aaba9af7d2",
+    "name": "Invalid_Login",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "d3c48705-6215-4c22-9bf7-d318ff234879",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["53a50671-7c21-4dea-a007-197b202ca8d0"]
+  }],
+  "urls": [],
+  "plugins": []
+}
